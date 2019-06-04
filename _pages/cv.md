@@ -10,22 +10,27 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in Geology, China University of Mining and Technology, Xuzhou China, 2011
-* M.S. in Geology, University of Chinese Academy of Science, Beijing China, 2014
-* Ph.D in Earth System Science, Auburn University, Auburn AL USA, 2019
+=========
+* B.S. in Geology, China University of Mining and Technology (CUMT), Xuzhou China, 2007 - 2011
+* M.S. in Geology, University of Chinese Academy of Science (UCAS), Beijing China, 2011 - 2014
+* Ph.D. in Earth System Science, Auburn University (AU), Auburn AL USA, 2015 - 2019
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+===============
+* May 2019 - present: Pos-doc Research Fellow
+  * Auburn University
+  * Duties included: 
+  * Supervisor: Professor Hanqin Tian & Susan Pan
+  
+* Spring 2015 - Spring 2019: Research Assistant
+  * Auburn University
+  * Duties included: 
+  * Supervisor: Professor Hanqin Tian & Susan Pan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2011 - Fall 2014: Research Assistant
+  * University of Chinese Academy of Science
+  * Duties included: 
+  * Supervisor: Professor Quanlin Hou
   
 Skills
 ======
@@ -37,23 +42,23 @@ Skills
 * Skill 3
 
 Publications
-======
+============
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+=====
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+========
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
+======================
 * Currently signed in to 43 different slack teams
