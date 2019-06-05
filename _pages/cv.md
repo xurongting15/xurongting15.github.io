@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+=========
 Education
 =========
 * B.S. in Geology, China University of Mining and Technology (CUMT), Xuzhou China, 2007 - 2011
