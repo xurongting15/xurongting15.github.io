@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-=========
+# Education
 * B.S. in Geology, China University of Mining and Technology (CUMT), Xuzhou China, 2007 - 2011
 * M.S. in Geology, University of Chinese Academy of Sciences (UCAS), Beijing China, 2011 - 2014
 * Ph.D. in Earth System Science, Auburn University (AU), Auburn AL USA, 2015 - 2019
