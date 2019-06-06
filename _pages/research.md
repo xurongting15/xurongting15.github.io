@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+---
 ## Observational Health Data Sciences and Informatics (OHDSI)
 [OHDSI](https://www.ohdsi.org/) is a public-private collaborative between the pharmaceutical industry, academia, and government. We have been building a network of standardized healthcare databases and open-source analytic tools to enable large-scale analytics of observational data. Our goals include improving our understandings of healthcare systems, generating reliable clinical evidences on drug safety, and developing precision treatment effect models.
 
