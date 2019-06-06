@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at Auburn University working with Prof. Hanqin Tian and Prof. Susan Pan on ecological modelling. I completed my PhD in Earth System Science at Auburn University under the supervision of Prof. Hanqin Tian and Prof. Susan Pan in May, 2019.
+I am a postdoctoral fellow at Auburn University working with Prof. Susan Pan and Prof. Hanqin Tian on ecological modelling. I completed my PhD in Earth System Science at Auburn University under the supervision of Prof. Hanqin Tian and Prof. Susan Pan in May, 2019.
