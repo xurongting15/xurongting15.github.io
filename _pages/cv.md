@@ -41,9 +41,9 @@ redirect_from:
   {% endfor %}</ol>
   
 # Talks and posters
-  <ul>{% for post in site.talks %}
+  <ol>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
 # Skills
 * Skill 1
