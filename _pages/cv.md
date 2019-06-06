@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-=========
 Education
 =========
 * B.S. in Geology, China University of Mining and Technology (CUMT), Xuzhou China, 2007 - 2011
-* M.S. in Geology, University of Chinese Academy of Science (UCAS), Beijing China, 2011 - 2014
+* M.S. in Geology, University of Chinese Academy of Sciences (UCAS), Beijing China, 2011 - 2014
 * Ph.D. in Earth System Science, Auburn University (AU), Auburn AL USA, 2015 - 2019
 
-Work experience
+Research experience
 ===============
 * May 2019 - present: Pos-doc Research Fellow
   * Auburn University
@@ -29,18 +28,15 @@ Work experience
   * Supervisor: Professor Hanqin Tian & Susan Pan
 
 * Fall 2011 - Fall 2014: Research Assistant
-  * University of Chinese Academy of Science
+  * University of Chinese Academy of Sciences
   * Duties included: 
   * Supervisor: Professor Quanlin Hou
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Teaching Experience
+========
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ============
@@ -53,12 +49,15 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-========
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
   
 Service and leadership
 ======================
