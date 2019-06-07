@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Guest Lecturer for Prof. James Shepard"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2017-guest-leacturer
+venue: "Auburn University"
+date: 2017-04-01
+location: "Auburn, AL 36849 USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Gave a guest lecture in Forest Ecology class for Dr. James Shepard
