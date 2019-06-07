@@ -10,24 +10,24 @@ redirect_from:
 {% include base_path %}
 ---
 # Education
-* B.S. in Geological Engineering, China University of Mining and Technology (**CUMT**), Xuzhou China, 2007 - 2011
-* M.S. in Structural Geology, University of Chinese Academy of Sciences (**UCAS**), Beijing China, 2011 - 2014
-* Ph.D. in Earth System Science, Auburn University (**AU**), Auburn AL USA, 2015 - 2019
+* Jan 2015 - May 2019, Ph.D. in Earth System Science, Auburn University (**AU**), Auburn AL USA
+* Sep 2011 - Dec 2014, M.S. in Structural Geology, University of Chinese Academy of Sciences (**UCAS**), Beijing China
+* Sep 2007 - Jun 2011, B.S. in Geology Engineering, China University of Mining and Technology (**CUMT**), Xuzhou China
 
 # Research experience
 * May 2019 - present: Pos-doc Research Fellow
-  * Auburn University
+  * GIS and Remote Sensing Laboratory, AU
   * Duties included: 
-  * Supervisor: Professor Hanqin Tian & Susan Pan
+  * Supervisor: Professor Susan Pan & Hanqin Tian
   
 * Spring 2015 - Spring 2019: Research Assistant
-  * Auburn University
-  * Duties included: 
+  * International Center for Climate and Global Change Climate, AU
+  * Duties included: involved in the project on the Global Nitrous Oxide Model Inter-comparison (NMIP) and the NASA Carbon System Monitoring Program
   * Supervisor: Professor Hanqin Tian & Susan Pan
 
 * Fall 2011 - Fall 2014: Research Assistant
-  * University of Chinese Academy of Sciences
-  * Duties included: 
+  * Key Laboratory of Computational Geodynamics, Chinese Academy of Sciences, UCAS
+  * Duties included: key member of project on the formation mechanism of coal-bed methane enrichment zone, part of a National Basic Research Project of the Ministry of Science and Technology of China
   * Supervisor: Professor Quanlin Hou
   
 # Teaching experience
