@@ -1,2 +1,5 @@
 _site/
 
+*.ipynb
+*.ipynb
+markdown_generator/talks.ipynb
