@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer for Prof. James Shepard"
+title: "Guest Lecturer for Prof. James Shepard - FORY4230 Forest Ecolgy"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-guest-leacturer
@@ -8,4 +8,4 @@ date: 2017-04-01
 location: "Auburn, AL 36849 USA"
 ---
 
-Gave a guest lecture in Forest Ecology class for Dr. James Shepard
+Gave a guest lecture in Forest Ecology class focusing on topics of climate change.

@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant for Prof. Donna Jurdy"
+title: "Teaching Assistant for Prof. Zifa Wang - 631011Y - Overview for Atmospheric Environment"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2014-teaching-assistant
 venue: "University of Chinese Academy of Sciences"
-date: 2013-07-01
+date: 2014-03-01
 location: "Beijing, China"
 ---
 
-Prof. Donna Jurdy from Northwestern University, United State, July, 2013
+Helping with field trips and assignment grading for Prof. Zifa Wang from Institute of Atmosphere Physics, Chinese Academy of Sciences, Spring 2014. 
