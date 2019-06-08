@@ -10,25 +10,19 @@ redirect_from:
 {% include base_path %}
 ---
 # Education
-* Jan 2015 - May 2019, Ph.D. in Earth System Science, Auburn University (**AU**), Auburn AL USA
-* Sep 2011 - Dec 2014, M.S. in Structural Geology, University of Chinese Academy of Sciences (**UCAS**), Beijing China
-* Sep 2007 - Jun 2011, B.S. in Geology Engineering, China University of Mining and Technology (**CUMT**), Xuzhou China
+* Jan 2015 - May 2019, Ph.D. in **Earth System Science**, Auburn University (**AU**), Auburn AL USA
+* Sep 2011 - Dec 2014, M.S. in **Structural Geology**, University of Chinese Academy of Sciences (**UCAS**), Beijing China
+* Sep 2007 - Jun 2011, B.S. in **Geology Engineering**, China University of Mining and Technology (**CUMT**), Xuzhou China
 
 # Research experience
-* May 2019 - present: Pos-doc Research Fellow
+* May 2019 - present: Postdoctoral Fellow
   * GIS and Remote Sensing Laboratory, AU
-  * Duties included: 
-  * Supervisor: Professor Susan Pan & Hanqin Tian
   
 * Spring 2015 - Spring 2019: Research Assistant
   * International Center for Climate and Global Change Climate, AU
-  * Duties included: involved in the project on the Global Nitrous Oxide Model Inter-comparison (NMIP) and the NASA Carbon System Monitoring Program
-  * Supervisor: Professor Hanqin Tian & Susan Pan
 
 * Fall 2011 - Fall 2014: Research Assistant
   * Key Laboratory of Computational Geodynamics, Chinese Academy of Sciences, UCAS
-  * Duties included: key member of project on the formation mechanism of coal-bed methane enrichment zone, part of a National Basic Research Project of the Ministry of Science and Technology of China
-  * Supervisor: Professor Quanlin Hou
   
 # Teaching experience
   <ul>{% for post in site.teaching %}
@@ -46,12 +40,20 @@ redirect_from:
   {% endfor %}</ol>
 
 # Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Remote sensing and GIS
+  * proficient in ArcGIS, ERDAS, ArcPy, and other programs in processing and analyzing spaitial data
+* Model development
+  * developing spatially-explicit land ecosystem models (DLEM and CLM)
+  * incorporating Bi-directional NH<sub>3</sub> exchange model into the DLEM
+* Programming
+  * proficient in Python, R, C++, and ARC Macro Language (AML)
   
-# Service and leadership
-* Currently signed in to 43 different slack teams
+# Service
+* Reviewer
+  * Global Change Biology
+  * Journal of Environmental Quality
+  * Journal of Geophysical Research: Biogeosciences
+  * Journal of Environmental Sciences
+  * Soil & Tillage Research
+* Community
+  * Serve as a volunteer in the third annual Spring Fling 2015 host by School of Forestry and Wildlife Sciences
