@@ -46,7 +46,7 @@ redirect_from:
   * developing spatially-explicit land ecosystem models (DLEM and CLM)
   * incorporating Bi-directional NH<sub>3</sub> exchange model into the DLEM
 * Programming
-  * proficient in Python, R, C++, and ARC Macro Language (AML)
+  * proficient in R, C++, Python, and ARC Macro Language (AML)
   
 # Service
 * Reviewer
@@ -55,5 +55,6 @@ redirect_from:
   * Journal of Geophysical Research: Biogeosciences
   * Journal of Environmental Sciences
   * Soil & Tillage Research
+  * Ecosystem Health and Sustainability
 * Community
   * Serve as a volunteer in the third annual Spring Fling 2015 host by School of Forestry and Wildlife Sciences
