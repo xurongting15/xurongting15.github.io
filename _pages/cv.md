@@ -25,7 +25,7 @@ redirect_from:
   * Key Laboratory of Computational Geodynamics, Chinese Academy of Sciences, UCAS
   
 # Teaching experience
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
