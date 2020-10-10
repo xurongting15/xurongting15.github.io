@@ -49,7 +49,7 @@ redirect_from:
   * proficient in R, C++, Python, and ARC Macro Language (AML)
   
 # Service
-*Scientific Conference
+* Scientific Conference
   * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B054) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2020
   * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B34D & B13L) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2019.  
 * Journal Reviewer
