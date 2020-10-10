@@ -41,7 +41,7 @@ redirect_from:
 
 # Skills
 * Remote sensing and GIS
-  * proficient in ArcGIS, ERDAS, ArcPy, and other programs in processing and analyzing spaitial data
+  * proficient in ArcGIS, ERDAS, ArcPy, and other programs in processing and analyzing spatial data
 * Model development
   * developing spatially-explicit land ecosystem models (DLEM and CLM)
   * incorporating Bi-directional NH<sub>3</sub> exchange model into the DLEM
@@ -49,8 +49,17 @@ redirect_from:
   * proficient in R, C++, Python, and ARC Macro Language (AML)
   
 # Service
-* Reviewer
+*Scientific Conference
+  * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B054) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2020
+  * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B34D & B13L) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2019.  
+* Journal Reviewer
+  * One Earth
+  * Geoscientific Model Development
+  * Earth System Science Data
   * Global Change Biology
+  * Environmental Research Letters
+  * Atmospheric Environment
+  * Agriculture, Ecosystems, & Environment
   * Journal of Environmental Quality
   * Journal of Geophysical Research: Biogeosciences
   * Journal of Environmental Sciences
