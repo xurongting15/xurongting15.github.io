@@ -8,4 +8,4 @@ date: 2014-03-01
 location: "Beijing, China"
 ---
 
-Helping with field trips and assignment grading for Prof. Zifa Wang from Institute of Atmosphere Physics, Chinese Academy of Sciences, Spring 2014. 
+Helping with field trips and assignment grading for Prof. Zifa Wang from Institute of Atmosphere Physics, Chinese Academy of Sciences. 
