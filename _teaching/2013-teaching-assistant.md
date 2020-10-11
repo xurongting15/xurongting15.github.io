@@ -8,4 +8,4 @@ date: 2013-07-01
 location: "Beijing, China"
 ---
 
-Helping with exam development and assignment grading for Prof. Donna Jurdy from Northwestern University, United State, Summer 2013
+Helping with exam development and assignment grading for Prof. Donna Jurdy from Northwestern University, US
