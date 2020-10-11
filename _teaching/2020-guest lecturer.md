@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer - COMM 3450 - Intercultural Communication"
+title: "Guest Lecturer COMM 3450 - Intercultural Communication"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-guest lecturer
