@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 ---
 # Education
-* Jan 2015 - May 2019, Ph.D. in **Earth System Science**, Auburn University (**AU**), US
-* Sep 2011 - Dec 2014, M.S. in **Geology**, University of Chinese Academy of Sciences (**UCAS**), China
-* Sep 2007 - Jun 2011, B.S. in **Geological Engineering**, China University of Mining and Technology (**CUMT**), China
+* 2015 - 2019, Ph.D. in **Earth System Science**, Auburn University (**AU**), US
+* 2011 - 2014, M.S. in **Geology**, University of Chinese Academy of Sciences (**UCAS**), China
+* 2007 - 2011, B.S. in **Geological Engineering**, China University of Mining and Technology (**CUMT**), China
 
 # Research experience
 * March 2021 - Present: Postdoctoral Researcher
