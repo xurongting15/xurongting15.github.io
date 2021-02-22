@@ -15,7 +15,10 @@ redirect_from:
 * Sep 2007 - Jun 2011, B.S. in **Geological Engineering**, China University of Mining and Technology (**CUMT**), China
 
 # Research experience
-* May 2019 - present: Postdoctoral Fellow
+* March 2021 - Present: Postdoctoral Researcher
+  * The Still Lab, OSU
+
+* May 2019 - January 2021: Postdoctoral Fellow
   * GIS and Remote Sensing Laboratory, AU
   
 * Spring 2015 - Spring 2019: Research Assistant
@@ -43,7 +46,7 @@ redirect_from:
 * Remote sensing and GIS
   * proficient in ArcGIS, ERDAS, ArcPy, and other programs in processing and analyzing spatial data
 * Model development
-  * developing spatially-explicit land ecosystem models (DLEM and CLM)
+  * developing spatially-explicit land ecosystem models (DLEM and E3SM-FATES)
   * incorporating Bi-directional NH<sub>3</sub> exchange model into the DLEM
 * Programming
   * proficient in R, C++, Python, and ARC Macro Language (AML)
@@ -65,5 +68,6 @@ redirect_from:
   * Journal of Environmental Sciences
   * Soil & Tillage Research
   * Ecosystem Health and Sustainability
+  * Science of the Total Environment
 * Community
   * Serve as a volunteer in the third annual Spring Fling 2015 host by School of Forestry and Wildlife Sciences
