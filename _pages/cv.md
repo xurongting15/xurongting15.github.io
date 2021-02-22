@@ -18,7 +18,7 @@ redirect_from:
 * March 2021 - Present: Postdoctoral Researcher
   * The Still Lab, OSU
 
-* May 2019 - January 2021: Postdoctoral Fellow
+* May 2019 - Jan 2021: Postdoctoral Fellow
   * GIS and Remote Sensing Laboratory, AU
   
 * Spring 2015 - Spring 2019: Research Assistant
