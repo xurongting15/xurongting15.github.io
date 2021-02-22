@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Rongting (Tina) Xu"
   avatar           : "tina.jpg"
-  bio              : "Postdoctoral Fellow at Auburn University."
-  location         : "Auburn, AL"
+  bio              : "Postdoctoral Researcher at Oregon State University."
+  location         : "Corvallis, OR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xaGzj6IAAAAJ&hl=en"
+  email            : "xuro@oregonstate.edu"
   email            : "rongting@auburn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
