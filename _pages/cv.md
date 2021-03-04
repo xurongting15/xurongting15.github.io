@@ -46,7 +46,7 @@ redirect_from:
 * Remote sensing and GIS
   * proficient in ArcGIS, ERDAS, ArcPy, and other programs in processing and analyzing spatial data
 * Model development
-  * developing spatially-explicit land ecosystem models (DLEM and E3SM-FATES)
+  * developing spatially-explicit land ecosystem models (DLEM and ELM-FATES)
   * incorporating Bi-directional NH<sub>3</sub> exchange model into the DLEM
 * Programming
   * proficient in R, C++, Python, and ARC Macro Language (AML)
