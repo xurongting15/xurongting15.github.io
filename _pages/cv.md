@@ -17,6 +17,8 @@ redirect_from:
 # Research experience
 * March 2021 - Present: Postdoctoral Researcher
   * The Still Lab, Oregon State Univesrity (OSU)
+
+* June 2021 - Present: Affiliate Postdoctoral Scholar
   * Climate and Ecosystem Sciences Division, Lawrence Berkeley National Laboratory (LBNL)
 
 * May 2019 - Jan 2021: Postdoctoral Fellow
