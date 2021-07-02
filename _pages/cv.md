@@ -50,14 +50,16 @@ redirect_from:
   * proficient in ArcGIS, ERDAS, ArcPy, and other programs in processing and analyzing spatial data
 * Model development
   * developing spatially-explicit land ecosystem models (DLEM and ELM-FATES)
-  * incorporating Bi-directional NH<sub>3</sub> exchange model into the DLEM
+  * incorporating the Bi-directional NH<sub>3</sub> exchange module into DLEM
 * Programming
-  * proficient in R, C++, Python, and ARC Macro Language (AML)
+  * proficient in C++, R, and Python
   
 # Service
 * Scientific Conference
   * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B054) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2020
-  * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B34D & B13L) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2019.  
+  * OSPA Liaison for American Geophysical Union Fall Meeting sessions (B34D & B13L) entitled “Regional Budgets, Trends, and Drivers of Major Greenhouse Gases (N2O, CH4, and CO2) I & II”, San Francisco, CA, December 2019. 
+* Guest Editor, 2021-2023
+  * Sustainability; Special Issue “Global Nitrogen Emission and its Impact”  
 * Journal Reviewer
   * One Earth
   * Geoscientific Model Development
@@ -72,5 +74,6 @@ redirect_from:
   * Soil & Tillage Research
   * Ecosystem Health and Sustainability
   * Science of the Total Environment
+  * Sustainability
 * Community
   * Serve as a volunteer in the third annual Spring Fling 2015 host by School of Forestry and Wildlife Sciences
